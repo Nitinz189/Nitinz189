@@ -8,7 +8,7 @@ I am a data analyst with practical experience building dashboards, cleaning data
 
 ## Projects
 1. **Call Center Dashboard (Power BI)** – Centralised operational metrics dashboard  
-2.<a id="EComm-SQL_Database_Design-project"></a> (**E-Commerce SQL Design** – SQL database schema + queries  )
+2. [**E-Commerce SQL Design** – SQL database schema + queries](https://github.com/Nitinz189/EComm-SQL_Database_Design-project)
 3. **Excel EDA & Reports** – Data cleaning + business reporting examples  
 4. **Python EDA Report** – Exploratory analysis with Python
 
