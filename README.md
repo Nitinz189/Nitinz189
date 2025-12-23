@@ -6,6 +6,9 @@
 ## About Me
 I am a data analyst with practical experience building dashboards, cleaning data, and generating actionable insights.
 
+## Case Study
+1.[** Gearwave-Defect-Analysis](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
+
 ## Projects
 1. [**Call Center Dashboard (Power BI)** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)  
 2. [**E-Commerce SQL Design** – SQL database schema + queries](https://github.com/Nitinz189/EComm-SQL_Database_Design-project)
