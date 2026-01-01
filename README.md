@@ -1,6 +1,7 @@
 # Nitin Vishwakarma – Data Analyst
 
 🔹 Excel • SQL • Power BI • Python • Tableau
+
 🔹 Reporting, Dashboards, Business Insights
 
 ## About Me
