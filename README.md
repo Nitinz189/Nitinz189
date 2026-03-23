@@ -2,7 +2,7 @@
 
 🔹 Excel • SQL • Power BI • Python • Tableau
 
-🔹 Reporting, Dashboards, Business Insights
+🔹 MIS Reporting • KPI Tracking • Dashboarding 
 
 ## About Me
 I am a data analyst with practical experience building dashboards, cleaning data, and generating actionable insights.
