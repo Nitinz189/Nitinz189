@@ -11,10 +11,12 @@ I am a data analyst with practical experience building dashboards, cleaning data
 
 ## Projects
 1. [**Gearwave-Defect-Analysis**](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
-
-2. [**Call Centre Performance & Revenue Analytics** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)
    
-3. [**Pizza Sales Analysis using Excel** – Data cleaning + business reporting examples](https://github.com/Nitinz189/Excel-EDA-and-reports/tree/main/Pizza_Sales_analysis)
+2. [**Monthly Sales Reporting tool**](https://github.com/Nitinz189/Monthly_Sales_Reporting-Tool)
+
+4. [**Call Centre Performance & Revenue Analytics** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)
+   
+
 
 
 📌 Actively seeking entry-level MIS / Reporting / Data Analyst roles in India.
