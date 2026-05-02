@@ -1,6 +1,6 @@
 # Nitin Vishwakarma – Data Analyst
 
-🔹 Excel • SQL • Power BI • Python • Tableau
+🔹 Excel • SQL • Power BI • Python • Python
 
 🔹 MIS Reporting • KPI Tracking • Dashboarding 
 
@@ -10,11 +10,13 @@ I am a data analyst with practical experience building dashboards, cleaning data
 
 
 ## Projects
-1. [**Gearwave-Defect-Analysis**](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
+1. [**End-to-End-Shipping-Data-Analytics-Platform (MySQL + BigQuerry)**](https://github.com/Nitinz189/End-to-End-Shipping-Data-Analytics-Platform)
    
-2. [**Monthly Sales Reporting tool**](https://github.com/Nitinz189/Monthly_Sales_Reporting-Tool)
+2. [**Monthly Sales Reporting tool (Advance Excel + VBA)**](https://github.com/Nitinz189/Monthly_Sales_Reporting-Tool)
+   
+3. [**Gearwave-Defect-Analysis**](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
 
-4. [**Call Centre Performance & Revenue Analytics** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)
+5. [**Call Centre Performance & Revenue Analytics** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)
    
 
 
