@@ -5,7 +5,12 @@
 🔹 MIS Reporting • KPI Tracking • Dashboarding 
 
 ## About Me
-I am a data analyst with practical experience building dashboards, cleaning data, and generating actionable insights.
+I am a Data Analyst with 1.5+ years of experience in reporting, data analysis, and process improvement. I specialize in transforming raw data into meaningful insights that support business decisions.
+In my work, I have built automated reporting systems using Excel and VBA, reducing manual effort by up to 80% and improving reporting efficiency. I have also developed interactive dashboards in Power BI to track KPIs, monitor performance, and uncover trends across business operations.
+I have hands-on experience working with SQL for data extraction and transformation, and I enjoy structuring messy data into clean, reliable datasets for analysis.
+In addition to my professional experience, I have built end-to-end data projects where I simulated real-world data workflows — from data generation and storage to analysis and dashboarding — helping me understand the complete data lifecycle.
+I am particularly interested in roles where I can combine data analysis, reporting, and business understanding to deliver actionable insights and improve processes.
+
 
 
 
