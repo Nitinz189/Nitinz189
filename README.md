@@ -1,4 +1,4 @@
-# Nitin Vishwakarma – Data Analyst
+# Nitin Vishwakarma – MIS Analyst
 
 🔹 Excel • SQL • Power BI • Python • Python
 
