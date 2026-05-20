@@ -1,6 +1,6 @@
 # Nitin Vishwakarma – MIS Analyst
 
-🔹 Excel • SQL • Power BI • Python • Python
+🔹 Excel • SQL • Power BI • Python 
 
 🔹 MIS Reporting • KPI Tracking • Dashboarding 
 
